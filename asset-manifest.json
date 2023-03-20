@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/spin/static/css/main.e93e8340.css",
-    "main.js": "/spin/static/js/main.1289edf5.js",
+    "main.css": "/spin/static/css/main.30f37ea7.css",
+    "main.js": "/spin/static/js/main.cf0bd1f5.js",
     "static/js/787.7821a618.chunk.js": "/spin/static/js/787.7821a618.chunk.js",
     "static/media/sb315btnfold.png": "/spin/static/media/sb315btnfold.7d0fce77ad401b803b7b.png",
     "static/media/sb320btnlimp.png": "/spin/static/media/sb320btnlimp.5ef827b64a68b24d2190.png",
@@ -33,12 +33,12 @@
     "static/media/sb320btnraise.png": "/spin/static/media/sb320btnraise.9ec1da8be7309f5a6da8.png",
     "static/media/notava.png": "/spin/static/media/notava.da8ad6aa7688c335bee0.png",
     "index.html": "/spin/index.html",
-    "main.e93e8340.css.map": "/spin/static/css/main.e93e8340.css.map",
-    "main.1289edf5.js.map": "/spin/static/js/main.1289edf5.js.map",
+    "main.30f37ea7.css.map": "/spin/static/css/main.30f37ea7.css.map",
+    "main.cf0bd1f5.js.map": "/spin/static/js/main.cf0bd1f5.js.map",
     "787.7821a618.chunk.js.map": "/spin/static/js/787.7821a618.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e93e8340.css",
-    "static/js/main.1289edf5.js"
+    "static/css/main.30f37ea7.css",
+    "static/js/main.cf0bd1f5.js"
   ]
 }
